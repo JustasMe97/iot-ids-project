@@ -1,0 +1,1 @@
+Šiame kataloge turi būti patalpinti UNSW-NB15 duomenų rinkinio CSV failai.
