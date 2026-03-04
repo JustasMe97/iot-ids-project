@@ -15,7 +15,7 @@ train_df, test_df = load_dataset(
     "data/UNSW_NB15_testing-set(in).csv"
 )
 
-TASK = "multiclass"  # "binary" arba "multiclass"
+TASK = "multiclass"  # "binary" arba "multiclass" pasirinkimas nauditi dvejetaine ar keliu klasiu klasifikacija
 
 # --- duomenu paruosimo laiko(preprocessing time) skaiciavimas ---
 start_prep = time.time()
