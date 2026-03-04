@@ -26,6 +26,9 @@ Atliekama dvejetainė klasifikacija:
 - `0` – normalus srautas  
 - `1` – ataka  
 
+Arba
+- `multiclass` kelių klasių klasikifacija
+
 ---
 
 ## Naudojamos technologijos
