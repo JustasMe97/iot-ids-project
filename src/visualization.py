@@ -44,5 +44,7 @@ def plot_feature_importance(model, feature_names, top_n=10):
         importances[indices[:top_n]]
     )
     plt.gca().invert_yaxis() # kad svarbiausias būtų viršuje
-    plt.title("Top Feature Importances")
-    plt.show()
+    plt.title("Svarbiausi požymiai")
+    plt.tight_layout()
+    plt.savefig("feature_importance.png", dpi=200)
+    plt.close()

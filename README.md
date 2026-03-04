@@ -92,9 +92,8 @@ Programa:
  - Nubraižo ROC grafikus
  - Atspausdina modelių palyginimo lentelę
 
-Tolimesni patobulinimai
-- Papildomų modelių įtraukimas
+Du režimai: 
+- binary (dvejetainė klasifikacija, 0-normalus srautas, 1-ataka)
 - Multi-class klasifikacija pagal atakų tipus
-- Hiperparametrų optimizavimas
 
 
